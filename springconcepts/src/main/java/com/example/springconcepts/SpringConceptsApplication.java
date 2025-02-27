@@ -21,9 +21,11 @@ public class SpringConceptsApplication {
 		logger.info("=========== APPLICATION STARTED SUCCESSFULLY ===========");
 	}
 
+
 	public static void main(String[] args) {
 		SpringApplication.run(SpringConceptsApplication.class, args);
 	}
+
 
 
 }
